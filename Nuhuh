@@ -139,6 +139,9 @@ Whitelisted = {
 "6/;>D4?9B90/BB>E8C-8:<0F;>=FD38/1E54ecd6/;3?;6>70<25.8B52AE",
 "6/;>D4?9B90/BB>E8C-8:<0F;>=FD38/1E9bda63/;3?;6>70<25.8B52AE"
 },
+Whitelisted2 = {
+
+},
 E = false,
 R = true,
 BlacklistBans = true,
